@@ -59,7 +59,7 @@ def slides = document("RE Then and Now"):
       p("**RE for programming languages**\\\\(as I'm member of the **Scala** committee)")
       p("**RE by end-user programming**\\\\(nowadays known as **Low Code/No Code**)")
     space(1)
-    p("\\pause see more emerging RE areas in the REFSQ series\\\\e.g. at REFS'2023 in Barcelona: https://2023.refsq.org/")
+    p("\\pause see emerging RE areas in the REFSQ series\\\\e.g. at REFS'2023 in Barcelona: https://2023.refsq.org/")
     p("and REFSQ'2024 in Winterthur, Switzerland: https://2024.refsq.org/")
   
   frame(" "):
