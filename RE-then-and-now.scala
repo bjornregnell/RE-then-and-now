@@ -22,7 +22,7 @@ def slides = document("RE Then and Now"):
     p("15 min talk, Farewell Symposium of Professor Claes Wohlin")
     p("Slides here: https://github.com/bjornregnell/RE-then-and-now")
     
-  frame("Starting-point: ''**then**''"):
+  frame("Starting-point: RE at ''**then**''"):
     image("../img/RE-book-2005-and-proceedings-1995.jpg", width = 1.05)
 
   frame("RE evolution from 1993 to 2023"):
@@ -63,6 +63,8 @@ def slides = document("RE Then and Now"):
     p("and REFSQ'2024 in Winterthur, Switzerland: https://2024.refsq.org/")
   
   frame(" "):
-    p("**Tank You for listening!**")
+    p("\\centering**Tank You for listening!**")
+    image("../img/br.jpg", width= 0.35)
+    p("https://cs.lth.se/bjornregnell")
     p("https://github.com/bjornregnell/RE-then-and-now")
 
