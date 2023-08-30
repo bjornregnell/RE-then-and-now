@@ -6,7 +6,7 @@ import taggy.*
 @main def makeSlides = slides.toPdf(out = "RE-then-and-now", dir = "tex")
 
 val arrow = "\\hspace{1em}$\\longrightarrow$\\hspace{1em}"
-def fromTo(a: String, b: String) = s"\\hspace{1em}`$a` $arrow `$b` \\pause"
+def fromTo(a: String, b: String) = s"\\pause\\hspace{1em}`$a` $arrow `$b`"
 
 def slides = document("RE Then and Now"):
   frame("Requirements Engineering **Then and Now**"):
@@ -36,7 +36,7 @@ def slides = document("RE Then and Now"):
     p(fromTo("Closed       ", "Open"))
     p(fromTo("Manual       ", "Smart"))
     space(2)
-    p("see these trends for example at RE'14 in Karlskrona  https://re14.lmsteiner.com/")
+    p("\\pause see these trends for example at RE'14 in Karlskrona  https://re14.lmsteiner.com/")
 
   frame("Software Engineering teaching from 1993--2023"):
     p("The ''Swedish school'' of SE teaching.")
