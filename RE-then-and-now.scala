@@ -10,6 +10,8 @@ def fromTo(a: String, b: String) = s"\\hspace{1em}`$a` $arrow `$b` \\pause"
 
 def slides = document("RE Then and Now"):
   frame("Requirements Engineering **Then and Now**"):
+    p("What is Requirements Engineering?")
+    space(1)
     p("A **brief reflection** over the past 30 years of")
     p("Requirements Engineering research (and teaching)")
     p("1993-2023.")
