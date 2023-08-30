@@ -4,7 +4,7 @@ Slides from a talk by Prof. Björn Regnell on the evolution of the discipline of
 
 Slides in pdf can be found via the link to "Releases" on this [repo page](https://github.com/bjornregnell/RE-then-and-now) to the right.
 
-The slides ar built using Scala 3 and https://github.com/bjornregnell/taggy/
+The slides ar built using [Scala 3](https://www.scala-lang.org/download/) and https://github.com/bjornregnell/taggy/
 
 # How to build slides locally
 
