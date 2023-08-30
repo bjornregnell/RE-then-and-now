@@ -17,7 +17,7 @@ def slides = document("RE Then and Now"):
     p("1993-2023.")
     space(3)
     p("Professor Björn Regnell, LTH, Lund University")
-    p("https://cs.lth.se/bjorn-regnell")
+    p("https://cs.lth.se/bjornregnell")
     space(2)
     p("15 min talk, Farewell Symposium of Professor Claes Wohlin")
     p("Slides here: https://github.com/bjornregnell/RE-then-and-now")
