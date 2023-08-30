@@ -63,7 +63,7 @@ def slides = document("RE Then and Now"):
     p("and REFSQ'2024 in Winterthur, Switzerland: https://2024.refsq.org/")
   
   frame(" "):
-    p("\\centering**Tank You for listening!**")
+    p("\\centering**Thank You for listening!**")
     image("../img/br.jpg", width= 0.35)
     p("https://cs.lth.se/bjornregnell")
     p("https://github.com/bjornregnell/RE-then-and-now")
