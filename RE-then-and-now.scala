@@ -26,7 +26,7 @@ def slides = document("RE Then and Now"):
     image("../img/RE-book-2005-and-proceedings-1995.jpg", width = 1.05)
 
   frame("RE evolution from 1993 to 2023"):
-    p("RE has evolved from 1993 to 2023 by shifting focus:")
+    p("RE has evolved over the past 30 years by shifting focus:")
     space(2)
     p(fromTo("Complete     ", "Economical"))
     p(fromTo("Specification", "Prioritization"))
